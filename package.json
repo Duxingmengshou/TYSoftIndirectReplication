@@ -1,7 +1,7 @@
 {
   "name": "TYSoftIndirectReplication",
   "displayName": "IndirectReplication",
-  "description": "TYSoft InteKey Copy",
+  "description": "TYSoft Indirect Copy",
   "icon": "images/icon.png",
   "version": "0.0.9",
   "engines": {
@@ -17,6 +17,18 @@
       {
         "command": "TYSoftIndirectReplication.tycp",
         "title": "tycp"
+      },
+      {
+        "command": "TYSoftIndirectReplication.tycut",
+        "title": "tycut"
+      },
+      {
+        "command": "TYSoftIndirectReplication.tycpfn",
+        "title": "tycpfn"
+      },
+      {
+        "command": "TYSoftIndirectReplication.tycpfrp",
+        "title": "tycpfrp"
       }
     ]
   },
