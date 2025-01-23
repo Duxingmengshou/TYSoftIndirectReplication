@@ -2,7 +2,8 @@
   "name": "TYSoftIndirectReplication",
   "displayName": "IndirectReplication",
   "description": "TYSoft InteKey Copy",
-  "version": "0.0.8",
+  "icon": "images/icon.png",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.96.0"
   },
