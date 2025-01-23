@@ -1,9 +1,12 @@
 # Change Log
-
-All notable changes to the "TYSoftIndirectReplication" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+版本的所有发布说明将在此说明
 
 ## [Unreleased]
 
-- Initial release
+1、使用临时文件解决多行文本复制问题
+
+2、解决系统编码问题（有些系统默认UFT8）
+
+3、解决前一次使用系统快捷键复制加密内容之后，系统剪切板被禁用问题（先调用vscode的方式清空一遍剪切板）
+
+4、增加了扩展的图标
