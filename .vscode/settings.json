@@ -3,7 +3,8 @@
 		"out": true,
 		"node_modules": true,
 		"**.vsix":true,
-		"package-lock.json":true
+		"package-lock.json":true,
+		
 	},
 	"search.exclude": {
 		"out": true
